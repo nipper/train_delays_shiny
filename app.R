@@ -2,6 +2,7 @@ library(shiny)
 library(ggplot2)
 library(ggthemr)
 library(scales)
+library(purrr)
 library(shinyWidgets)
 source("setup.R")
 
