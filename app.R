@@ -3,6 +3,8 @@ library(ggplot2)
 library(ggthemr)
 library(scales)
 library(purrr)
+library(tidyr)
+library(forcats)
 library(shinyWidgets)
 source("setup.R")
 
